@@ -36,13 +36,13 @@ slug: test-plan-creation/
     }}
 ></script>
 
-# Test Plan Creation
+# Test Plan 
 
 Test plans are collections of test cases which help in achieving certain test objectives by selecting and validating important test cases. By providing a structured approach to testing, test plans ensure that a particular goal or objective is tested and verified.
 
 The process of creating a test plan is user-friendly and intuitive. Users can seamlessly begin this process by selecting the "Test Plans" option from the repository. It provides a workflow to follow necessary steps for defining and structuring the test plan.
 
-**Steps for Creating a Test Plan**
+**Steps for Creating Test Plans**
 
 1. Under Test cases, select multiple test cases and choose the **Create Test Plan** option.
 
