@@ -156,6 +156,8 @@ Click **Create** to save the test cases to your **Test Case Repository** in Test
 
 Click **Create and Automate** to save the test cases and automatically send them to **KaneAI** for automation. KaneAI executes each test case using natural language understanding and generates automation scripts.
 
+This works for test cases in either output format. Test cases generated as [BDD scenarios](/support/docs/generate-test-cases-with-ai/#bdd-scenario-output) are automated the same way as manual-step test cases — KaneAI reads the `Given` / `When` / `Then` steps directly, so no conversion is needed.
+
 ---
 
 ### Step 4: Generate Automation Code
